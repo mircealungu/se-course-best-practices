@@ -10,8 +10,8 @@ The requirements document should be self contained and should  also make sense t
 For the requirements, it is important that you note **why** the requirement should be implemented. As the reason will give context to the person implementing it. Have a look at the [Hestia](Hestia%20-%20Requirements%20Document%20Iteration%207.pdf) document if you want an example of how to do this using **User Stories**: _as an X I would like to Y so I can Z_. This will also make it easier for you to transfer your requirements document into a product backlog tool such as [JIRA](https://www.atlassian.com/software/jira) or the [Github Project Board](https://help.github.com/articles/about-project-boards/) (and vice-versa).
 
 ## Example structure:
-- **A nice cover.**:
-Will make the us happy. Add the project title, the client, the team names, TA name and the document version.
+- **A nice cover**:
+...will make the us happy. Add the project title, the client, the team names, TA name and the document version.
 - **Brief introduction**:
 A high-level introduction that explains the importance and the scope of the project. Explanation of the document structure.
 - **Critical Functional Requirements**:
@@ -33,8 +33,8 @@ Descriptive list of changes made to the document tagged with date and author.
 The goal of this document is to allow you to present the architecture of what you have already but also what you are aiming at. (e.g. if you plan to use Angular on the front-end, but didn’t start using it yet, do mention this). One of the goals of this document is to make sure that the SE Staff has a good overview of what everybody is doing so we can offer you *the best advice* :)
 
 ### Example structure:
-- **A nice cover.**:
-Will make the us happy. Add the project title, the client, the team names, TA name and the document version.
+- **A nice cover**:
+...will make the us happy. Add the project title, the client, the team names, TA name and the document version.
 - **Brief introduction**:
 A brief introduction to the product, highlighting the specifics that influence the architecture and design choices.
 - **Architectural overview**: 
