@@ -1,7 +1,7 @@
 This folder contains example documents from past teams that we consider are of high quality. 
 Use them as a rough guideline, not as a template.
 
-As a general note: try to keep your documents **consise**. That is: short but descriptive.
+As a general note: try to keep your documents **concise**. That is: short but descriptive.
 The sad truth of the world is that people do not like to read large documents, and if your document is not being read you are wasting valuable development time ;).
 
 ## Requirements Document
