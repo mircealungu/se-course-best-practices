@@ -27,6 +27,8 @@ Descriptive list of changes made to the document tagged with date and author.
 ## Requirements Document
 The requirements document should be self contained and should  also make sense to somebody who is not part of the team. Thus it should have a high-level introduction that explains the importance and the scope of the project. But the most important role of this document, is that it will be the evolving shared understanding between you and the customer. Thus, the more details it contains the more can you be sure that you are on the same page. And this is why we ask you to update it after every meeting with the customer. 
 
+For the requirements, it is important that you note **why** the requirement should be implemented. As the reason will give context to the person implementing them. Have a look at the Hestia document if you want an example of how to do this using **User Stories**: _as an X I would like to Y so I can Z_. This will also make it easier for you to transfer your requirements document into a product backlog tool such as JIRA or the Github Project Board (and vice-versa).
+
 ## Example structure:
 - **A nice cover.**:
 Will make the us happy. Add the project title, the client, the team names, TA name and the document version.
@@ -40,6 +42,8 @@ Requirements that would disappoint your client if they were missing in the final
 Requirements that your client would be happy about if they were implemented, but it's OK if they are not.
 - **Non-Functional Requirements**:
 All requirements that describe a certain _quality_ of the product, such as "Intuitive design" or "Android support". Be sure to properly understand the distinction between functional and non-functional (_a large part of students initially lose points due to this mistake!_).
+- **Won't Do**:
+Features you will not implement. Noting what you _will not_ do is just as important as noting what you _will_ do.
 - **Meeting Log**:
 A log of all meetings with the client and the decisions made there. Each requirement should have been discussed. This will help you with forgetful clients.
 - **Change Log**:
