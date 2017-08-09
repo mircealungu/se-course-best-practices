@@ -4,26 +4,6 @@ Use them as a rough guideline, not as a template.
 As a general note: try to keep your documents **consise**. That is: short but descriptive.
 The sad truth of the world is that people do not like to read large documents, and if your document is not being read you are wasting valuable development time ;).
 
-## Architecture Document
-The goal of this document is to allow you to present the architecture of what you have already but also what you are aiming at. (e.g. if you plan to use Angular on the front-end, but didn’t start using it yet, do mention this). One of the goals of this document is to make sure that the SE Staff has a good overview of what everybody is doing so we can offer you *the best advice* :)
-
-### Example structure:
-- **A nice cover.**:
-Will make the us happy. Add the project title, the client, the team names, TA name and the document version.
-- **Brief introduction**:
-A brief introduction to the product, highlighting the specifics that influence the architecture and design choices.
-- **Architectural overview**: 
-What components are there and what are their functions?
-How are components connected/communicating?
-If a more general principle or a paradigm is applied that is worth mentioning, mention it.
-- **Technology Stack**:
-What programming languages are being used? What technologies are being used (Frameworks, libraries, platform, peripherals)? If different components have different technologies, present them individually. 
-- **Team Organization**:
-What teams are there and what are their responsibilities?
-Are the team responsibilities focused on different components? 
-- **Change Log**:
-Descriptive list of changes made to the document tagged with date and author.
-
 ## Requirements Document
 The requirements document should be self contained and should  also make sense to somebody who is not part of the team. Thus it should have a high-level introduction that explains the importance and the scope of the project. But the most important role of this document, is that it will be the evolving shared understanding between you and the customer. Thus, the more details it contains the more can you be sure that you are on the same page. And this is why we ask you to update it after every meeting with the customer. 
 
@@ -49,3 +29,22 @@ A log of all meetings with the client and the decisions made there. Each require
 - **Change Log**:
 Descriptive list of changes made to the document tagged with date and author.
 
+## Architecture Document
+The goal of this document is to allow you to present the architecture of what you have already but also what you are aiming at. (e.g. if you plan to use Angular on the front-end, but didn’t start using it yet, do mention this). One of the goals of this document is to make sure that the SE Staff has a good overview of what everybody is doing so we can offer you *the best advice* :)
+
+### Example structure:
+- **A nice cover.**:
+Will make the us happy. Add the project title, the client, the team names, TA name and the document version.
+- **Brief introduction**:
+A brief introduction to the product, highlighting the specifics that influence the architecture and design choices.
+- **Architectural overview**: 
+What components are there and what are their functions?
+How are components connected/communicating?
+If a more general principle or a paradigm is applied that is worth mentioning, mention it.
+- **Technology Stack**:
+What programming languages are being used? What technologies are being used (Frameworks, libraries, platform, peripherals)? If different components have different technologies, present them individually. 
+- **Team Organization**:
+What teams are there and what are their responsibilities?
+Are the team responsibilities focused on different components? 
+- **Change Log**:
+Descriptive list of changes made to the document tagged with date and author.
