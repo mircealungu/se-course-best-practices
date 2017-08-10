@@ -61,7 +61,7 @@ Send a pull request for the release branch to be merged into master. Do this via
 
 Send a pull request for the release branch to be merged into develop. Do this via the same process as merging a  feature branch.
 
-After the release is merged into the develop branch tag it with the correct version number:
+After the release is merged into the develop branch tag it with the [correct version number](http://semver.org/):
 ```
-git tag -a 1.0 
+git tag -a 0.0.1
 ```
