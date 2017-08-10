@@ -24,7 +24,7 @@ Book about the Scrum work flow, explains the 'why' and the 'how' in detail.
 Professionals are clean (or at least try to be).
 
 - **The Mythical Man-Month - Frederick P. Brooks Jr.**;
-Historical piece about project failure.
+Famous piece about project failure.
 
 - **Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma**;
 Patterns can help you elegantly solve common engineering problems.
