@@ -1,4 +1,4 @@
-This document contains a list of interesting material we deemed potentially useful for students to read.
+This document contains a list of interesting material we deemed potentially useful (or just fun SE related literature) for students to read.
 
 ## Interesting Articles
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
@@ -14,26 +14,26 @@ About the importance and approaches to writing a requirements documents.
 Less fun but very useful document about writing your requirements document.
 
 ## Interesting Books
-- Scrum: The Art of Doing Twice the Work in Half the Time - Jeff Sutherland.
+- **Scrum: The Art of Doing Twice the Work in Half the Time - Jeff Sutherland**;
 Book about the Scrum work flow, explains the 'why' and the 'how' in detail.
 
-- Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin.
+- **Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin**;
 Professionals are clean (or at least try to be).
 
-- The Mythical Man-Month - Frederick P. Brooks Jr.
+- **The Mythical Man-Month - Frederick P. Brooks Jr.**;
 Historical piece about project failure.
 
-- Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma.
+- **Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma**;
 Patterns can help you elegantly solve common engineering problems.
 
-- Extreme Programming Explained: Embrace Change - Kent Beck.
+- **Extreme Programming Explained: Embrace Change - Kent Beck**;
 A set of interesting and helpful programming techniques (such as pair-programming).
 
-- Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture - David Kushner.
+- **Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture - David Kushner**;
 A book about innovation, engineering, and cowboy-game-development.
 
-- Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age - Michael A. Hiltzik.
+- **Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age - Michael A. Hiltzik**;
 Know your history!
 
-- The Pleasure of Finding Things Out - Richard P. Feynman.
+- **The Pleasure of Finding Things Out - Richard P. Feynman**;
 If you want some scientific inspiration and motivation :).
