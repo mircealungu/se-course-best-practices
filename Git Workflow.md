@@ -44,9 +44,9 @@ Some properties of release branches:
 
 You 'll use these branches to prepare the code you are going to hand in at the end of your sprint, i.e. after two weeks. This branches should be used for last minute dotting of i’s and crossing t’s. Furthermore, they allow for minor bug fixes and preparing meta-data for a release (version number, build dates, etc.). By doing this work on a release branch instead of on the develop branch, part of the team can start working there for the next sprint. 
 
-Creating a release branch named release-1.0:
+Creating a release branch named release-0.1.0:
 ```
-git checkout -b release-1.0 develop
+git checkout -b release-0.1.0 develop
 ```
 
 Do some work on the branch
@@ -63,5 +63,5 @@ Send a pull request for the release branch to be merged into develop. Do this vi
 
 After the release is merged into the develop branch tag it with the [correct version number](http://semver.org/):
 ```
-git tag -a 0.0.1
+git tag -a 0.1.0
 ```
