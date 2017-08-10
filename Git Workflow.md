@@ -3,14 +3,14 @@ This document describes the official git workflow for SE. This is based on an ea
 ## The Official Git Workflow for SE Projects @RUG
 The workflow we ask you to use assumes clear distinctions and roles for different branches of your version repository and code reviewing. 
 
-1. Master Branch
+### Master Branch
 This is the branch you will use to hand in new versions of your application every two weeks. You will do this via a pull request, you have no other kind of access to this branch. The code of your pull request will be reviewed by you TA; after all their comments have been resolved, the pull request will be merged into the master.
 
-2. Develop Branch
+### Develop Branch
 This branch contains the current working version of your application. You still cannot merge to it, however you can send pull requests and ask one of your team members to review your code. After you have resolved their comments to their satisfaction your code will be merged into develop. It would be a good idea to add your TA as a reviewer as well  during the first weeks of the project so that you get a feel for what kind of feedback they are going to give. (See lecture #5 on Nestor for reviewing guidelines.)
 
-3. Feature Branches
-- Some properties of feature branches
+### Feature Branches
+Some properties of feature branches:
 - They may branch off from develop.
 - They must merge back into develop.
 - They may have any descriptive name other than master, develop.
@@ -29,13 +29,13 @@ git commit -am "some description of the small step you took.
 ```
 
 Now, on GitHub you can send a pull request for the feature branch to be merged into develop by following the following steps:
-- Write a short description of what you did. You should be able to keep it short, since you shouldn't be implementing large changes in one branch. 
-- Request as reviewer someone from your team and your TA in the first weeks. Assign the reviewer to the pull request. 
+1. Write a short description of what you did. You should be able to keep it short, since you shouldn't be implementing large changes in one branch. 
+2. Request as reviewer someone from your team and your TA in the first weeks. Assign the reviewer to the pull request. 
 Set the target branch, base branch on GitHub, of the pull request to develop.
-- The reviewer reviews and edits the code, the assignee creates and ships the code. 
+3. The reviewer reviews and edits the code, the assignee creates and ships the code. 
 Wait for the reviewer to review your code. If you have been asked to review code don't keep people waiting for days. 
 
-4. Release Branches
+### Release Branches
 Some properties of release branches:
 - They may branch off from develop.
 - They must merge back into develop and master.
@@ -55,9 +55,9 @@ git commit -am "Changed the version number in some file or something."
 ```
 
 Send a pull request for the release branch to be merged into master. Do this via www.github.com
-- Request your TA as your reviewer.
-- Assign your TA to the pull request.
-- Set the base branch to master.
+1. Request your TA as your reviewer.
+2. Assign your TA to the pull request.
+3. Set the base branch to master.
 
 Send a pull request for the release branch to be merged into develop. Do this via the same process as merging a  feature branch.
 
