@@ -2,7 +2,6 @@ This document contains a list of interesting material we deemed potentially usef
 
 ## Interesting Articles
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/);
-V̶̢̰͆͐̏͛̓͆̅è̵̯̲̰̺̣̼͈̠̜̯̝͙̩̓͒̅̔͒̑̾̚͘r̴̛͍͉̔̔̈̏̅͂̉̾̏̈́͒̕͝y̴̰̾̌͗̈́̀͋̄̈͒̿̍͊͝ ̵̡̢̞̝̪̘̼̜̬͙͈͊͆̅̚͘i̶͇̦͕̞͓̼̪̠̦̜̘̎̈́͋̾̄̀̈́͐̈́͛́̔̃̅̚m̶̡̛̻͖̝͌͆̀̉͠p̴̧̛̹̮͓͈̫̭͎̟̹̐̌͌͒̂̅̂̈͠o̷͈͇͍̥͛̑̈́͛̀̔̓̈́̋̍̈́͝r̶̡̧̧͎͙͔̬̺͔̞͕̳̔̆̿͌̿͆̑̿͘ͅͅt̷͚̻̙̟̺̮̬͙̄̄̒̌̊a̸̮͇̙̭̓̀̾̚n̵̢̧̥̩̳̲̭̠̪̼͚̠̟͊̏̈́̀̽͌̓̓͊t̶̡̞͖̰̟͚̹͍̮͓̻̓́̓̈́̀̔̈ ̶̡͕͈͎̤̬̼̞̊̈́͊̏̄̇̀̔̓̚t̵̨̛̥͚̺͓̣̘̣̫͚̻̒̀͆͐̽̔̏͑̔o̸̢͙̰̠̣͕̺̜̓̆͋̃̈́͆̔̿̂͑̍̚͝͝ ̴̨̥͓͓̪̥̦̭̙̞̱͎̳͇́̃͑̄̽͆͌̿̅̅͘̕͝ụ̵̮͇̲̊̉̀ṉ̷̯͉̱̹̼͛̑̅͐̏̔͘d̶̨͙̺̘̱͇̤͉̮̲͔̤͌̐͐̽́̾͛̈̅͐͘͘͜͝͝͠ę̷̮̰̟͖͓̫͙͒͋̑͌̉̎̃̒̈́͆̚͠r̴̢̢͇̲͔̖͎̟̥̙̃̌̎̃͜͝ś̵̗̼̮̞̪͍̮̝̖̖̈̆͐͐̈́̈́̑̓͜ţ̸̛͎̥͉̗̗͍̟̜̪̓̈̓̽̏̎̈́̎͛́̐̕͜͝á̷̦͔͙n̵͍͇̒͛͊̆͌̅̌͘d̸̢͈̯͚͇͖̲̪̗͚̹̝̺̩̿̽̀͝.̷̘̳̹͔͔̙̓̀͊̽̑͆͗͊ͅ!
 
 - [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/);
 Code is more difficult to read than to write, and do not start from scratch.
