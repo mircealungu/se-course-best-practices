@@ -10,7 +10,7 @@ Please remain critical and try to see how they work for your situation.
 This document is open-source, and thus your experiences could help prove
 some tips to be misleading, or you could even help us introduce new ones ;)
 
-## Lessons learned from students past.
+## Lessons learned from students past
 - Do not take code-criticism personally, be professional and open for discussion.
 - Be constructive in code-criticism, but do not feel afraid to ask silly questions.
 - Extremely clever code is sometimes worse than simple code if they both will meet requirements.
