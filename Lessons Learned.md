@@ -8,7 +8,10 @@ Thus, we only include lessons we think _most probably_ will apply to you.
 Please remain critical and try to see how they work for your situation.
 
 This document is open-source, and thus your experiences could help prove
-some tips to be misleading, or you could even help us introduce new ones ;)
+some tips to be misleading, or you could even help us introduce new ones ;).
+Improving this document can be done trough either of two means:
+1. Forking the repository, appending your knowledge to this document, and then creating a pull request to merge the change.
+2. Creating an issue, and noting your knowledge there.
 
 ## Lessons learned from students past
 - Do not take code-criticism personally, be professional and open for discussion.
