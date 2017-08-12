@@ -20,3 +20,4 @@ some tips to be misleading, or you could even help us introduce new ones ;)
 - Find out what kind of work-flow works best for your team.
 - Communicate with your client and target audience often and continuously.
 - Productivity tools can help your team stay organized. 
+- Reïnventing the wheel will usually not help, try to use libraries and frameworks to stand on the shoulders of giants.
