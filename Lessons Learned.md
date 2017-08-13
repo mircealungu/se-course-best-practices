@@ -3,12 +3,12 @@ followed the SE course and developed a solution for their customer.
 
 We created this document hoping you will learn from the mistakes
 and achievements of your colleagues.
-Most probably, nothing is 100% proven to be true (just as this statement), and only likelihoods exists.
+Nothing is 100% proven to be true (just as this statement), and only likelihoods exists.
 Thus, we only include lessons we think _most probably_ will apply to you.
 Please remain critical and try to see how they work for your situation.
 
 This document is open-source, and thus your experiences could help prove
-some tips to be misleading, or you could even help us introduce new ones ;).
+some tips to be misleading. You could even append some new ones to the list below! :).
 Improving this document can be done trough either of two means:
 1. Forking the repository, appending your knowledge to this document, and then creating a pull request to merge the change.
 2. Creating an issue, and noting your knowledge there.
