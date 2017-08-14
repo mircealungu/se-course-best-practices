@@ -9,7 +9,7 @@ The requirements document should be self contained and should  also make sense t
 
 For the requirements, it is important that you note **why** the requirement should be implemented. As the reason will give context to the person implementing it. Have a look at the [Hestia](Hestia%20-%20Requirements%20Document%20Iteration%207.pdf) document if you want an example of how to do this using **User Stories**: _as an X I would like to Y so I can Z_. This will also make it easier for you to transfer your requirements document into a product backlog tool such as [JIRA](https://www.atlassian.com/software/jira) or the [Github Project Board](https://help.github.com/articles/about-project-boards/) (and vice-versa).
 
-## Example structure:
+### Example structure:
 - **A nice cover**:
 ...will make the us happy. Add the project title, the client, the team names, TA name and the document version.
 - **Brief introduction**:
