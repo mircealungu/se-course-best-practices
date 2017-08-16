@@ -61,4 +61,4 @@ Some tips:
 - Presenting with too many speakers can be distracting.
 - Introduce secondary speakers.
 - Have a proper and clear ending. No _"and.... yeah that's it."_.
-- Recorded demo's are  preferred, do not bore the audience by navigating through menus and pressing the wrong buttons.
+- Recorded demos are  preferred, do not bore the audience by navigating through menus and pressing the wrong buttons.
