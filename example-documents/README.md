@@ -62,3 +62,29 @@ Some tips:
 - Introduce secondary speakers.
 - Have a proper and clear ending. No _"and.... yeah that's it."_.
 - Recorded demos are  preferred, do not bore the audience by navigating through menus and pressing the wrong buttons.
+- In general: the best presentations were the teams that rehearsed their presentations beforehand and to whom we also provided feedback on the slides. Send your slides to the teaching assistant before presenting.
+
+### Example Structure Intermediate Presentation
+- Introduction to the problem
+  - Why is it important
+- What is the solution
+  - Description from the user's POV
+  - Technical description
+- Lessons learned (what you find useful to share with your colleagues)
+  - Can include topics about coding practices, workflow, etc.
+- Future work
+
+### Example Structure Final Presentation
+- Your development process
+  - How did you plan/structure/evaluate the development?
+- The communication within your team
+- The communication with the customer
+- The 3 best practices that you used in your team
+  - Regarding e.g. code review, conflict solving, quality controls
+- Your technology stack and how you set up your project
+  - e.g. did you deploy a web server, an App to the AppStore/Google Play Store
+  - Did you use continuous integration and/or a build server?
+- Lessons learned during development
+- The architectural structure of your project (Visuals are highly appreciated here!!)
+- The most elegant design aspect of your code
+  - i.e. which is your most elegant solution to a coding problem you had?
