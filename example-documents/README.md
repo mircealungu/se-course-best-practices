@@ -48,3 +48,16 @@ What teams are there and what are their responsibilities?
 Are the team responsibilities focused on different components? 
 - **Change Log**:
 Descriptive list of changes made to the document tagged with date and author.
+
+## Presentation
+Your presentation will allow you to showcase your project to teaching assistants, students, and anyone who is interested. It is meant to invoke interest in your work and to give some rough insights in your developments process.
+Also: try to make it **captivating**! Nobody will listen to a boring slideshow.
+
+Some tips:
+- Speak with a clear, calm and audible voice.
+- Stand straight, face the audience, do not run around too much.
+- Be (or at least seem) interested in the story yourselves.
+- Slides are meant to support your story, not to be the story itself.
+- Presenting with too many speakers can be distracting.
+- Introduce secondary speakers.
+- Have a proper and clear ending. No _"and.... yeah that's it."_.
