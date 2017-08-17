@@ -28,7 +28,7 @@ Where the factors are:
 - **FU** - Functionality
 - **RD** - Requirements Document
 - **AD** - Architecture Document
-- **PR** - Presentation
+- **PR** - [Presentation](/example-documents/README.md#presentation)
 - Team Professionalism: 
   - **SP** - Wrt. Staff
   - **TP** - Wrt. Team

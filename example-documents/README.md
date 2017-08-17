@@ -55,13 +55,14 @@ Also: try to make it **captivating**! Nobody will listen to a boring slideshow.
 
 Some tips:
 - Speak with a clear, calm and audible voice.
-- Stand straight, face the audience, do not run around too much.
+- Stand straight, face the audience, do not run around too much and never talk _to_ the slides.
 - Be (or at least seem) interested in the story yourselves.
 - Slides are meant to support your story, not to be the story itself.
 - Presenting with too many speakers can be distracting.
 - Introduce secondary speakers.
 - Have a proper and clear ending. No _"and.... yeah that's it."_.
 - Recorded demos are  preferred, do not bore the audience by navigating through menus and pressing the wrong buttons.
+- Do not use foo-bar examples. Nothing says more "I don't care about this system" than entering "qwertyui" in the Name field of your form.
 - In general: the best presentations were the teams that rehearsed their presentations beforehand and to whom we also provided feedback on the slides. Send your slides to the teaching assistant before presenting.
 
 ### Example Structure Intermediate Presentation
@@ -85,6 +86,6 @@ Some tips:
   - e.g. did you deploy a web server, an App to the AppStore/Google Play Store
   - Did you use continuous integration and/or a build server?
 - Lessons learned during development
-- The architectural structure of your project (Visuals are highly appreciated here!!)
+- The architectural structure of your project (visuals are highly appreciated here!!)
 - The most elegant design aspect of your code
   - i.e. which is your most elegant solution to a coding problem you had?
