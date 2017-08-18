@@ -1,4 +1,4 @@
-This document contains a list of interesting material we deemed potentially useful (or just fun SE related literature) for students to read.
+This document contains a list of interesting material we deemed potentially useful (or just fun SE related content) for students to read.
 
 ## Interesting Articles
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/);
@@ -39,3 +39,10 @@ Know your history!
 
 - **The Pleasure of Finding Things Out - Richard P. Feynman**;
 If you want some scientific inspiration and motivation :).
+
+## Interesting Podcasts
+- [Software Engineering Daily](https://softwareengineeringdaily.com); 
+Features daily interviews about technical software topics.
+
+- [Software Engineering Radio](http://www.se-radio.net);
+Targeted at the professional software developer, their goal is to be a lasting educational resource, not a newscast.
