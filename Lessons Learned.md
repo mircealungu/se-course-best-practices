@@ -24,3 +24,5 @@ Improving this document can be done trough either of two means:
 - Communicate with your client and target audience often and continuously.
 - Productivity tools can help your team stay organized. 
 - Reïnventing the wheel will usually not help, try to use libraries and frameworks to stand on the shoulders of giants.
+- Sort out version control issues early on.
+- "Security at the expense of usability comes at the expense of security" ~ AviD's rule of usability. Applies in select cases.
