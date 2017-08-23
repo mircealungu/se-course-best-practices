@@ -31,7 +31,7 @@ Where the factors are:
 - **PR** - [Presentation](/example-documents/README.md#presentation)
 - Team Professionalism: 
   - **SP** - Wrt. Staff
-  - **TP** - Wrt. Team
+  - **TP** - [Wrt. Team](/evaluation/Peer%20Evaluation.md)
   - **CP** - [Wrt. Customer](/evaluation/Client%20Evaluation.md)
 - **PC** - [Personal Contribution](/evaluation/Peer%20Evaluation.md)
 
