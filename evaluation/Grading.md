@@ -32,8 +32,8 @@ Where the factors are:
 - Team Professionalism: 
   - **SP** - Wrt. Staff
   - **TP** - Wrt. Team
-  - **CP** - Wrt. Customer
-- **PC** - Personal Contribution
+  - **CP** - [Wrt. Customer](/Client%20Evaluation.md)
+- **PC** - [Personal Contribution](/Peer%20Evaluation.md)
 
 ## Final Grade
 The two intermediate grades are used to calculate the final grade:
