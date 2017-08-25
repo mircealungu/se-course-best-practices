@@ -31,9 +31,9 @@ Where the factors are:
 - **PR** - [Presentation](/example-documents/README.md#presentation)
 - Team Professionalism: 
   - **SP** - Wrt. Staff
-  - **TP** - Wrt. Team
-  - **CP** - Wrt. Customer
-- **PC** - Personal Contribution
+  - **TP** - [Wrt. Team](/evaluation/Peer%20Evaluation.md)
+  - **CP** - [Wrt. Customer](/evaluation/Client%20Evaluation.md)
+- **PC** - [Personal Contribution](/evaluation/Peer%20Evaluation.md)
 
 ## Final Grade
 The two intermediate grades are used to calculate the final grade:
