@@ -43,3 +43,6 @@ Improving this document can be done trough either of two means:
 
 # Non-Functinoal Qualities
 - "Security at the expense of usability comes at the expense of security" ~ AviD's rule of usability. Applies in select cases.
+
+# Testing
+- Tests should be deterministic
