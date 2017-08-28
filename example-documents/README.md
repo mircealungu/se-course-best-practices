@@ -9,7 +9,7 @@ The requirements document should be self contained and should  also make sense t
 
 For the requirements, it is important that you note **why** the requirement should be implemented. As the reason will give context to the person implementing it. Have a look at the [Hestia](Hestia%20-%20Requirements%20Document%20Iteration%207.pdf) document if you want an example of how to do this using **User Stories**: _as an X I would like to Y so I can Z_. This will also make it easier for you to transfer your requirements document into a product backlog tool such as [JIRA](https://www.atlassian.com/software/jira) or the [Github Project Board](https://help.github.com/articles/about-project-boards/) (and vice-versa).
 
-## Example structure:
+### Example structure:
 - **A nice cover**:
 ...will make the us happy. Add the project title, the client, the team names, TA name and the document version.
 - **Brief introduction**:
@@ -48,3 +48,44 @@ What teams are there and what are their responsibilities?
 Are the team responsibilities focused on different components? 
 - **Change Log**:
 Descriptive list of changes made to the document tagged with date and author.
+
+## Presentation
+Your presentation will allow you to showcase your project to teaching assistants, students, and anyone who is interested. It is meant to invoke interest in your work and to give some rough insights in your developments process.
+Also: try to make it **captivating**! Nobody will listen to a boring slideshow.
+
+Some tips:
+- Speak with a clear, calm and audible voice.
+- Stand straight, face the audience, do not run around too much and never talk _to_ the slides.
+- Be (or at least seem) interested in the story yourselves.
+- Slides are meant to support your story, not to be the story itself.
+- Presenting with too many speakers can be distracting.
+- Introduce secondary speakers.
+- Have a proper and clear ending. No _"and.... yeah that's it."_.
+- Recorded demos are  preferred, do not bore the audience by navigating through menus and pressing the wrong buttons.
+- Do not use foo-bar examples. Nothing says more "I don't care about this system" than entering "qwertyui" in the Name field of your form.
+- In general: the best presentations were the teams that rehearsed their presentations beforehand and to whom we also provided feedback on the slides. Send your slides to the teaching assistant before presenting.
+
+### Example Structure Intermediate Presentation
+- Introduction to the problem
+  - Why is it important
+- What is the solution
+  - Description from the user's POV
+  - Technical description
+- Lessons learned (what you find useful to share with your colleagues)
+  - Can include topics about coding practices, workflow, etc.
+- Future work
+
+### Example Structure Final Presentation
+- Your development process
+  - How did you plan/structure/evaluate the development?
+- The communication within your team
+- The communication with the customer
+- The 3 best practices that you used in your team
+  - Regarding e.g. code review, conflict solving, quality controls
+- Your technology stack and how you set up your project
+  - e.g. did you deploy a web server, an App to the AppStore/Google Play Store
+  - Did you use continuous integration and/or a build server?
+- Lessons learned during development
+- The architectural structure of your project (visuals are highly appreciated here!!)
+- The most elegant design aspect of your code
+  - i.e. which is your most elegant solution to a coding problem you had?

@@ -20,7 +20,9 @@ Improving this document can be done trough either of two means:
 - If somebody on the team is not producing any work, try to discuss this with them.
 - Long hours are not always equal to high amounts of productivity.
 - Try to be consistent in your code formatting.
-- Find out what kind of work-flow works best for your team.
+- Find out what kind of workflow works best for your team.
 - Communicate with your client and target audience often and continuously.
 - Productivity tools can help your team stay organized. 
 - Reïnventing the wheel will usually not help, try to use libraries and frameworks to stand on the shoulders of giants.
+- Sort out version control issues early on.
+- "Security at the expense of usability comes at the expense of security" ~ AviD's rule of usability. Applies in select cases.
