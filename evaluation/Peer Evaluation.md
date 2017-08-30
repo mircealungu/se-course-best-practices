@@ -11,11 +11,9 @@ Use this form to evaluate both your peers and yourself for SE.
 
 The survey has one section for each of you. Consider the sections with your own name as your self evaluation. For each grade give an example of how this person delivered work of high quality, or work of low quality, depending on the grade you give. 
 
-Grading people is not required. If you really feel<sup>1</sup> you cannot grade that aspect of the work that person delivered I would like you to motivate why. 
+Grading people is not required. If you really feel you cannot grade that aspect of the work that person delivered I would like you to motivate why (this shouldn't happen, as you have all contributed to the documents and all read them). 
 
 Each question has a rating and a motivation part. In the motivation part explain why you think that rating is correct and give an example of a time when someone displayed that quality, or did not display it at all.
-
-1. This shouldn't happen, as you have all contributed to the documents and all read them. 
 
 ### [STUDENT NAME]
 
