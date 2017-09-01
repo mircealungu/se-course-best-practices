@@ -25,7 +25,7 @@ This feedback is meant to be:
 Code review is done by pull-request on github. Read the [Git Workflow document](/Git%20Workflow.md) for more information.
 
 In addition to feedback, you will grade their work twice in the course: once mid-course, and once at the end of the course.
-More detail about the grading and feedback process can be found in the [Grading document](/Grading.md).
+More detail about the grading and feedback process can be found in the [Grading document](/evaluation/Grading.md).
 
 ## Demos and presentations
 Whenever a team has to present something for a grade, we ask all TA's to be present and to provide a review.
