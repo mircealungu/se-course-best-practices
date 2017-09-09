@@ -12,12 +12,15 @@ About the importance and approaches to writing a requirements documents.
 - [Writing a Requirements Document For Multimedia and Software Projects](http://www.cdl.edu/uploads/Qd/S6/QdS615B1DcnwRZlnSuTDnQ/writing-requirements.pdf);
 Less fun but very useful document about writing your requirements document.
 
+- [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/);
+A list of simple yes/no questions that might help you find improvements to make.
+
 - [Semantic Versioning](http://semver.org/);
 Properly version your documents and code, it will help your iterations stay organised.
 
 ## Interesting Books
 - **Scrum: The Art of Doing Twice the Work in Half the Time - Jeff Sutherland**;
-Book about the Scrum work flow, explains the 'why' and the 'how' in detail.
+Book about the Scrum workflow, explains the 'why' and the 'how' in detail.
 
 - **Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin**;
 Professionals are clean (or at least try to be).
