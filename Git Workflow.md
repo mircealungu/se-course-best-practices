@@ -25,7 +25,7 @@ git push -u origin myfeature
 
 Do some work on the branch.
 ```
-git commit -am "some description of the small step you took.
+git commit -am "some description of the small step you took."
 ```
 
 Now, on GitHub you can send a pull request for the feature branch to be merged into develop by following the following steps:
