@@ -1,3 +1,5 @@
+Deliverables 
+====
 The deliverables for the teams are:
 
 1. A Requirements Document: this is a live document that is updated and submitted every two weeks, 
@@ -14,7 +16,7 @@ master. The Teaching Assistants provide feedback on every pull request (See: [Fe
 
 
 Two Week Iterations
-====
+--
 In the first incarnation of the course we had one-week iterations. 
 It was too stressful for the students since they have little to show
 given that, in our context, they had several other courses to work on.
