@@ -12,9 +12,8 @@ the system. For examples see the [example documents](/example-documents) folder.
 3. Every two weeks a new version of the source code should be submitted, via a Pull Request to 
 master. The Teaching Assistants provide feedback on every pull request (See: [Feedabck and Grading](https://github.com/mircealungu/se-course-best-practices/blob/master/TA%20Duties.md#feedback-and-grading)).
 
-4. An Minimum Viable Product -- should be delivered at least one month before the end of the course
-if not more. In the first iteration of the course we asked for it one month in the course and this
-was much too ambitious.
+4. An Minimum Viable Product -- should be delivered midway through the semester, or at latest one 
+month before the end of the course. 
 
 4. A Final Presentation will be delivered by every team in the last lecture of the course. 
 
@@ -24,11 +23,16 @@ on GitHub. If the software has also been deployed online or in an app store, the
 Readme.md of the master. 
 
 
-Two Week Iterations
+Notes
 --
+**Two Week Iterations**
 In the first incarnation of the course we had one-week iterations. 
 It was too stressful for the students since they have little to show
 given that, in our context, they had several other courses to work on.
 
 For the second and the third run of the course we had two-week "sprints"
 and it worked much better. 
+
+**Minumum Viable Product**
+In the first iteration of the course we asked for it one month in the course 
+and this was much too ambitious. Midway through the semester is more doable.
