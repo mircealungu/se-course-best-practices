@@ -11,3 +11,13 @@ the system. For examples see the [example documents](/example-documents) folder.
 master. The Teaching Assistants provide feedback on every pull request (See: [Feedabck and Grading](https://github.com/mircealungu/se-course-best-practices/blob/master/TA%20Duties.md#feedback-and-grading)).
 
 4. A Final Presentation will be delivered by every team in the last lecture of the course. 
+
+
+Two Week Iterations
+====
+In the first incarnation of the course we had one-week iterations. 
+It was too stressful for the students since they have little to show
+given that, in our context, they had several other courses to work on.
+
+For the second and the third run of the course we had two-week "sprints"
+and it worked much better. 
