@@ -26,6 +26,7 @@ Readme.md of the master.
 Notes
 --
 **Two Week Iterations**.
+
 In the first incarnation of the course we had one-week iterations. 
 It was too stressful for the students since they have little to show
 given that, in our context, they had several other courses to work on.
@@ -33,5 +34,6 @@ For the second and the third run of the course we had two-week "sprints"
 and it worked much better. 
 
 **Minumum Viable Product**.
+
 In the first iteration of the course we asked for it one month in the course 
 and this was much too ambitious. Midway through the semester is more doable.
