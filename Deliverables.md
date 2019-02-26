@@ -19,7 +19,9 @@ was much too ambitious.
 4. A Final Presentation will be delivered by every team in the last lecture of the course. 
 
 5. Final Submission -- should include the final versions of the Requirements and Architecture Documents 
-as well as the final version of the code. 
+as well as the final version of the code. Everything is submitted via a PR to the master of the project
+on GitHub. If the software has also been deployed online or in an app store, the link should be in the 
+Readme.md of the master. 
 
 
 Two Week Iterations
