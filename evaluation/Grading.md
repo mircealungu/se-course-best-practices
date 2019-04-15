@@ -13,11 +13,11 @@ such that the team knows if they are on the right track.
 ## Intermediate Grade
 **Half-way** and at the **end** of the course, we determine a student's intermediate grade G<sub>i</sub> (for i=0,1).
 
-Del<sub>i</sub> = (CQ + (AD + RD + PR + FU) / 2) / 3
+Deliverable<sub>i</sub> = (CQ + (AD + RD + PR + FU) / 2) / 3
 
-Pro<sub>i</sub> = 0.2 + (SP + TP + CP) / 30
+Professionalism<sub>i</sub> = 0.2 + (SP + TP + CP) / 30
 
-Per<sub>i</sub> = 0.2 + PC / 10
+Personal Contribution<sub>i</sub> = 0.2 + PC / 10
 
 <P align=center>
 G<sub>i</sub> = MIN(10, Del<sub>i</sub> * Pro<sub>i</sub> * Per<sub>i</sub>)
